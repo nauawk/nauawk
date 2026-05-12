@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo ao meu perfil 👋🏼
 
-Me chamo Nauã Wisniewski da Silva, tenho 18 anos e atualmente curso o 3º semestre do Bacharelado em Ciência da Computação (PUCPR). Adoro estudar programação e desenvolvimento web, principalmente na área de backend. Estou constantemente realizando projetos pessoais/acadêmicos para adquirir conhecimento e melhorar meu portfólio. Meu objetivo é me conseguir tornar um engenheiro de software capaz de planejar e desenvolver aplicações robustas, seguras e de alta performance.
+Me chamo Nauã Wisniewski da Silva, tenho 18 anos e atualmente curso o 3º semestre do Bacharelado em Ciência da Computação (PUCPR). Adoro estudar programação e desenvolvimento web, principalmente na área de backend. Estou constantemente realizando projetos pessoais/acadêmicos para adquirir conhecimento e melhorar meu portfólio. Meu objetivo é conseguir me tornar um engenheiro de software capaz de planejar e desenvolver aplicações robustas, seguras e de alta performance.
 
 ## Tecnologias
 
