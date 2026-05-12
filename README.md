@@ -6,8 +6,6 @@ Me chamo Nauã Wisniewski da Silva, tenho 18 anos e atualmente curso o 3º semes
 
 ## Tecnologias
 
-## Tecnologias
-
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
