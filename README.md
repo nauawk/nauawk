@@ -15,11 +15,13 @@ Me chamo Nauã Wisniewski da Silva, tenho 18 anos e atualmente curso o 3º semes
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+<br>
 <p align="center">
   <img src="https://github-readme-statsss-eight.vercel.app/api?username=NauaWK&show_icons=true&theme=radical" height="165" />
   &nbsp;
   <img src="https://github-readme-statsss-eight.vercel.app/api/top-langs/?username=NauaWK&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact" height="165" />
 </p>
+<br>
 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nauawdasilva84a747298)
