@@ -25,7 +25,8 @@ Me chamo Nauã Wisniewski da Silva, tenho 18 anos e atualmente curso o 3º semes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nauawdasilva84a747298)
 
 <br>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NauaWK/NauaWK/output/github-contribution-grid-snake-dark.svg">
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NauaWK/NauaWK/output/github-contribution-grid-snake-dark.svg">
-</p>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NauaWK/NauaWK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NauaWK/NauaWK/output/github-contribution-grid-snake.svg">
+</picture>
